@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Gyu-Yeon!
 
 ### About Me
-- Blog: [My Github Blog](https://qqyurr.github.io)
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qqyurr)](https://github.com/anuraghazra/github-readme-stats)
 
