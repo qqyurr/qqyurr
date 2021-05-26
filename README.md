@@ -7,5 +7,5 @@
 
 🔭 I’m currently working on 삼성 청년 SW 아카데미(SSAFY) 4기 
 
-🌱 I’m currently learning Vue.js, Javascript, Typescript, Python, Django
+🌱 I’m currently learning Vue.js, React Native, Javascript, Typescript, Python, Django
 
