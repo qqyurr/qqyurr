@@ -20,8 +20,8 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"><br>
 
 #### UI/UX Design Tools
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adob_XD&logoColor=white">
-<img src="https://img.shields.io/badge/Adobe_Photoshop-F24E1E?style=for-the-badge&logo=Adobe_Photoshop&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=Adobe-XD&logoColor=white">
+<img src="https://img.shields.io/badge/Adobe_Photoshop-F24E1E?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"> <br>
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qqyurr)](https://github.com/anuraghazra/github-readme-stats)
