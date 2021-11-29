@@ -20,6 +20,3 @@
 
 
 🔭 Front-end Engineer 
-
-🌱 I’m currently learning Vue.js, React, React Native, Javascript, Typescript
-
