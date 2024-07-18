@@ -16,7 +16,4 @@
 <img src="https://img.shields.io/badge/Adobe_Photoshop-F24E1E?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"> <br>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qqyurr)](https://github.com/anuraghazra/github-readme-stats)
-
-
 🔭 Front-end Engineer 
